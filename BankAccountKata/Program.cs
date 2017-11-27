@@ -12,7 +12,7 @@ namespace BankAccountKata
         {
             BankAccount acc1 = new BankAccount
             {
-                AccountId = "45700",
+                AccountId = "45000",
                 Balance = 1000
             };
 
